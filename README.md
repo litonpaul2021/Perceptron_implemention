@@ -9,4 +9,12 @@ touch file name
 conda create --prefix ./env python=3.7 -y
 '''
 
-### 
+### to activate the environment
+'''
+conda activate ./env
+'''
+
+### to make a directory
+'''
+mkdir dir_name
+'''
